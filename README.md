@@ -1,4 +1,5 @@
 # mail
+中间件：rabbitmq-server
 ```
 git clone https://github.com/king192/mail.git
 cd mail
